@@ -33,7 +33,6 @@ const initialState = {
   position: [],
   address: '',
   error: '',
-  error2: '',
 };
 
 const userSlice = createSlice({
